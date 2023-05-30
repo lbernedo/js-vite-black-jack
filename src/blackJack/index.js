@@ -5,7 +5,7 @@ import _ from 'underscore';
 //import {crearDeck as crearNuevoDeck} from '../usescases/crear-deck';
 // este import funciona cuando el script tiene un export por defecto
 //import  cualquierNombreParaCrearUnNUevoDeck  from '../usescases/crear-deck';
-import { crearDeck, valorCarta, pedirCarta, turnoComputadora, crearcCartaHTML } from '../usescases';
+import { crearDeck, valorCarta, pedirCarta, turnoComputadora, crearCartaHTML } from '../usescases';
 
 /**
  * 2C = Two of Clubs
